@@ -25,3 +25,8 @@ De acuerdo a las recomendaciones de la Organización Mundial de Salud (OMS), par
 
 Anualmente, el país necesita 600 mil unidades de sangre para cubrir la demanda interna. En el 2013 se recaudó 185 mil unidades de sangre; es decir, hay un déficit de 415 mil unidades, lo que perjudica a los pacientes que requieren sangre con urgencia. Por ello, el Ministerio de Salud junto con diferentes instituciones públicas o privadas, organizaciones, iglesias, colegios profesionales, grupos comunitarios e instituciones educativas busca generar una cultura de donación voluntaria para abastecer a los Bancos de Sangre a nivel nacional y así poder salvar vidas durante desastres, accidentes y/o emergencias.
 
+![Imagen 1][1]  ![Imagen 2][2]
+
+ [1]: assets/1.png
+ [2]: assets/1.png 
+
