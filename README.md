@@ -17,7 +17,7 @@ La transfusión de sangre se realiza de manera regular para remplazar grandes p�
 
 El 86% de la sangre recolectada en los Bancos de Sangre del Perú se obtienen en Lima.
 
-
+![Imagen 1][bancos/avatar.png]
 
 La donación voluntaria de sangre en nuestro país es muy reducida, solo el 0.5% de la población dona sangre. De este segmento, cerca de un 5% aporta voluntariamente, siendo la donación por reposición la principal fuente de abastecimiento de sangre (95%). Sin embargo, como ha sido demostrado exhaustivamente, tanto el donante por reposición como el remunerado son considerados donantes de muy alto riesgo, que por la necesidad económica o la de “cumplir” con los familiares o amigos, ocultan situaciones patológicas o estilos de vida riesgosas, que ponen en peligro al receptor de la misma.
 
