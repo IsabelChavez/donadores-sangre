@@ -23,3 +23,13 @@ De acuerdo a las recomendaciones de la Organización Mundial de Salud (OMS), par
 
 Anualmente, el país necesita 600 mil unidades de sangre para cubrir la demanda interna y no se llegan ni a las 200 mil unidades, lo que perjudica a los pacientes que requieren sangre con urgencia. 
 
+Como podemos observar en la siguiente imagen, solo hay 16 centros en Lima a los cuales se puede acudir para realizar una donación.
+
+![Sin titulo](assets/bancos-lima.png)
+
+Finalmente, también se observó que la mayoría de la pobleción tiene como tipo de sangre 'O positivo'.
+
+![Sin titulo](assets/porcentajes-grupo-sanguineo-300x223.jpg)
+
+
+
