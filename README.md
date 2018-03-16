@@ -33,35 +33,35 @@ Finalmente, también se observó que la mayoría de la pobleción tiene como tip
 
 ### Requisitos para donar sangre
 
-    Edad entre 18 y 55 años. Si una persona sobrepasa la edad permitida, pero lleva una vida sana, puede donar.
-    Peso superior a 50 kilos.
-    No haber padecido enfermedades como hepatitis, sobre todo la de tipo B.
-    No tener enfermedades crónicas, problemas renales, anemia o factores altos de riesgo (drogadicción, promiscuidad, alcoholismo, etc.).
-    Llevar una vida sana.
+   * Edad entre 18 y 55 años. Si una persona sobrepasa la edad permitida, pero lleva una vida sana, puede donar.
+   * Peso superior a 50 kilos.
+   * No haber padecido enfermedades como hepatitis, sobre todo la de tipo B.
+   * No tener enfermedades crónicas, problemas renales, anemia o factores altos de riesgo (drogadicción, promiscuidad, alcoholismo, etc.).
+   * Llevar una vida sana.
 
 ## Encuestas y Entrevistas
 
 Para poder detectar cual es el problema de la actual deficiencia de donantes de sangre, realizamos la siguiente encuesta para tener una visión general acerca del problema.
 
-![Sin titulo](1.png)
+![Sin titulo](assets/1.png)
 
-![Sin titulo](2.png)
+![Sin titulo](assets/2.png)
 
-![Sin titulo](3.png)
+![Sin titulo](assets/3.png)
 
-![Sin titulo](4.png)
+![Sin titulo](assets/4.png)
 
-![Sin titulo](5.png)
+![Sin titulo](assets/5.png)
 
-![Sin titulo](6.png)
+![Sin titulo](assets/6.png)
 
-![Sin titulo](7.png)
+![Sin titulo](assets/7.png)
 
-![Sin titulo](8.png)
+![Sin titulo](assets/8.png)
 
-![Sin titulo](10.png)
+![Sin titulo](assets/10.png)
 
-![Sin titulo](9.png)
+![Sin titulo](assets/9.png)
 
 
 
