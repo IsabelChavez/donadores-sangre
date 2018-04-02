@@ -1,5 +1,14 @@
 # App para donadores de sangre en el Perú
 
+Hilo Rojo es una app para donadores de sangre. Te va a permitir separar tus citas de donación en los hospitales cercanos a tu distrito, así como solicitar unidades de sangre. Además tendrás a la mano toda la información acerca de realizar esta noble actividad y podrás obtener puntos para poder canjearlos por descuentos.
+
+
+![image](https://user-images.githubusercontent.com/32299835/38203305-68fac4da-3664-11e8-9bc4-55c839cc1933.png)
+
+## Desarrollado para
+
+ [Laboratoria](http://laboratoria.la)
+
 ## El Reto
 
 Durante este sprint y durante lo que queda del bootcamp deberás trabajar individualmente en diseñar o rediseñar un producto digital.
